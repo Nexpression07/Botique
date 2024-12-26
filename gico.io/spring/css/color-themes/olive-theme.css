@@ -1,0 +1,118 @@
+@charset "utf-8";
+/* CSS Document */
+
+a,
+.theme_color,
+.btn-style-two,
+.page-title .text,
+.brought-section .image .content-box h2,
+.social-icon-one li a:hover,
+.news-block .inner-box .lower-box h5 a,
+.week-section .content-column h1 span,
+.booking-section .contact-column h3,
+.week-section .content-column .text span,
+.about-section .content-column .title,
+.main-footer .footer-list li a:hover,
+.service-block-two .content-column h2 a,
+.service-block-two .content-column ul li,
+.portfolio-block-two .overlay-inner .link:hover,
+.price-block .inner-box .lower-content .price,
+.video-section .video-box .overlay-box span,
+.portfolio-quote-box .icon,
+.archive-list li a:hover,
+.sidebar .popular-posts .post a:hover,
+.error-section h1,
+.sidebar .popular-posts .post .post-thumb .overlay-box,
+.news-block-three .inner-box .lower-content h4 a:hover,
+.project-section .filters .filter-tabs .filter.active,
+.project-section .filters .filter-tabs .filter:hover{
+	color:#3D9970;
+}
+
+/*Background Color*/
+
+.btn-style-three,
+.scroll-to-top:hover,
+.btn-style-one:before,
+.call-to-action-section,
+.news-block .inner-box .image,
+.banner-section .owl-dots .owl-dot.active span,
+.collection-block .inner-box .image,
+.testimonial-section .owl-nav .owl-prev:hover,
+.testimonial-section .owl-nav .owl-next:hover,
+.main-footer .logo-widget .social-nav li a:hover,
+.portfolio-block-two .overlay-inner .link,
+.gallery-item-two .overlay-inner .link,
+.news-block-two .inner-box .content-column .shared-boxed .shared-inner,
+.portfolio-block-two .overlay-inner .link:hover::before,
+.related-news-section .owl-nav .owl-prev:hover,
+.related-news-section .owl-nav .owl-next:hover,
+.comment-box .comment .reply-btn:hover,
+.portfolio-block .inner-box .images-outer .overlay-box h4 a .icon,
+.main-menu .navigation > li > ul > li > ul > li:hover > a,
+.main-menu .navigation > li > ul > li:hover > a{
+	background-color:#3D9970;
+}
+
+/*Border Color*/
+
+.btn-style-two,
+.btn-style-one,
+.attention-box .text p,
+.we-do-block .inner-box .overlay-box:before,
+.testimonial-section .owl-item.active .thumb-item .thumb-box img,
+.testimonial-section .owl-nav .owl-prev:hover,
+.testimonial-section .owl-nav .owl-next:hover,
+.banner-section .owl-dots .owl-dot.active span,
+.comment-form .form-group input[type="text"]:focus,
+.comment-form .form-group input[type="password"]:focus,
+.comment-form .form-group input[type="tel"]:focus,
+.comment-form .form-group input[type="email"]:focus,
+.comment-form .form-group select:focus,
+.comment-form .form-group textarea:focus,
+.contact-form .form-group input[type="text"]:focus,
+.contact-form .form-group input[type="password"]:focus,
+.contact-form .form-group input[type="tel"]:focus,
+.contact-form .form-group input[type="email"]:focus,
+.contact-form .form-group select:focus,
+.contact-form .form-group textarea:focus{
+	border-color:#3D9970;
+}
+
+.instagram-widget .post-thumb .overlay-box,
+.team-member .inner-box .image-box .overlay-box .inner,
+.we-do-block .inner-box:hover .overlay-box{
+	background-color:rgba(61,153,112,0.80);
+}
+
+.call-to-action-two-section.style-two:before,
+.video-section .video-box .overlay-box{
+	background-color:rgba(61,153,112,0.50);
+}
+
+
+@media only screen and (max-width: 767px){
+	
+	.main-menu .navbar-header .navbar-toggle{
+		border-color:#3D9970;
+	}
+	
+	.main-menu .navbar-header .navbar-toggle,
+	.main-menu .navbar-collapse > .navigation,
+	.main-menu .navbar-collapse > .navigation > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > a:hover,
+	.main-menu .navbar-collapse > .navigation > li > a:active,
+	.main-menu .navbar-collapse > .navigation > li > a:focus,
+	.main-menu .navbar-collapse > .navigation > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li.current > a,
+	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a{
+		background-color:#3D9970;
+	}
+	
+}
